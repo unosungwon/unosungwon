@@ -1,14 +1,18 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=sungwon&fontColor=0:EEFF00,100:a82da8&fontSize=70&fontAlignY=55)
+##  🌈💝🌸 SUNG WON 💗💞💘
 
-<br>
+<br/>
+<br/>
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:amykswdev@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
+## ✉️ contact
+amykswdev@gmail.com
+</div><br>
+
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
 </div><br>
 </div>
