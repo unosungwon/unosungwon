@@ -5,11 +5,6 @@
 <br>
 <br>
 
-## ✉️ contact ✉️
-amykswdev@gmail.com
-<br>
-<br>
-<br>
 ## 🔨 tool 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
